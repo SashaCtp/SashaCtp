@@ -6,4 +6,4 @@
 
 😁 Tech enthusiast, looking towards IA and Cybersecurity
 
-📫 [Contact me : sasha.contrepois@protonmail.com](mailto:sasha.contrepois@protonmail.com)
+📫 [Contact me](mailto:sasha.contrepois@protonmail.com) *(sasha.contrepois@protonmail.com)*
