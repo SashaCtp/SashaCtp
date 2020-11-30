@@ -1,6 +1,6 @@
 ### Hi there, I'm Sasha
 
-🎓 IT Student at Université de Paris *(Former Preparatory Class Student)
+🎓 IT Student at Université de Paris *(Former Preparatory Class Student)*
 
 💻 Web Developper during my free time
 
