@@ -6,6 +6,6 @@
 
 😁 Tech enthusiast, looking towards IA and Cybersecurity
 
-🌐 Learn more on my [website](http://sashactp.fr) ! *(http://sashactp.fr)*
+🌐 Learn more on my [website](http://sashactp.fr) ! *(https://sashactp.fr)*
 
 📫 [Contact me](mailto:sasha.contrepois@protonmail.com) *(sasha.contrepois@protonmail.com)*
