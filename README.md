@@ -4,7 +4,7 @@
 
 💻 Web Developper during my free time
 
-😁 Tech enthusiast, looking towards IA and Cybersecurity
+😁 Tech enthusiast, looking towards on-board information systems and Cybersecurity
 
 🌐 Learn more on my [website](http://sashactp.fr) ! *(https://sashactp.fr)*
 
