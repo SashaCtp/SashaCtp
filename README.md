@@ -2,10 +2,10 @@
 
 🎓 IT Student at Université de Paris *(Former Preparatory Class Student)*
 
-💻 Web Developper during my free time
+💻 Web and Java Developper during my spare time
 
-😁 Tech enthusiast, looking towards on-board information systems and Cybersecurity
+😁 Tech enthusiast, interested in working in on-board information systems (transportation) and Cybersecurity
 
-🌐 Learn more on my [website](http://sashactp.fr) ! *(https://sashactp.fr)*
+🌐 Learn more about me on my [website](http://sashactp.fr) ! *(https://sashactp.fr)*
 
 📫 [Contact me](mailto:sasha.contrepois@protonmail.com) *(sasha.contrepois@protonmail.com)*
