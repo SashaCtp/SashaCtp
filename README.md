@@ -4,7 +4,7 @@
 
 💻 Web and Java Developper during my spare time
 
-😁 Tech enthusiast, interested in working in on-board information systems (transportation) and Cybersecurity
+😁 Tech enthusiast, interested in working in on-board information systems (Transportation or Defense industry) and Cybersecurity
 
 🌐 Learn more about me on my [website](http://sashactp.fr) ! *(https://sashactp.fr)*
 
