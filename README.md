@@ -4,7 +4,7 @@
 
 💻 Web and Java Developper during my spare time
 
-😁 Tech enthusiast, interested in working on embeded systems (Transportation or Defense industry) and Cybersecurity
+😁 Tech enthusiast, interested in working on embedded systems (Transportation or Defense industry) and Cybersecurity
 
 🌐 Learn more about me on my [website](http://sashactp.fr) ! *(https://sashactp.fr)*
 
